@@ -1,0 +1,53 @@
+body {
+    padding: 20px;
+}
+
+.toggleButton{
+    padding: 10px;
+    background: rgb(92, 154, 201);
+    color: white;
+    display: inline;
+    border-radius: 20px;
+    border: 2px solid rgb(56, 116, 162);
+}
+
+.mb10{
+    margin-bottom: 10px;
+}
+
+.mt10{
+    margin-top: 10px;
+}
+
+.updatenote{
+    padding: 10px;
+    background: sandybrown;
+    color: white;
+    display: inline;
+}
+
+video {
+  min-width: 40%;
+  object-fit: cover;
+}
+
+.canvasbox{
+    border-radius: 3px;
+    margin-right: 10px;
+    width: 500px;
+    height: 338px;
+    border-bottom: 3px solid black;
+    box-shadow: 0px 2px 3px 0px;
+}
+
+.alphabet{
+    position: absolute;
+    color: tomato;
+    font-size: 5vh;
+    display: flex;
+    bottom: 400px;
+    left: 600px;
+    width:20%;
+    justify-content: space-around;
+    align-items: center;
+}
